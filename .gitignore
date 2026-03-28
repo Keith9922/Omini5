@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Local research and demo artifacts
+chat-page.png
+extracted/
+*.zip
+
+# Local runtime caches
+web/.next/
+web/node_modules/
+
